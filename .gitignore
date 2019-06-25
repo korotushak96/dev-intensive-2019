@@ -17,11 +17,15 @@ local.properties
 >>>>>>> conflict
 
 # Gradle files
+<<<<<<< HEAD
 .gradle/
 
 # Signing files
 .signing/
 
+=======
+.gradl
+>>>>>>> conflict
 # User-specific configurations
 *.iml
 
@@ -65,6 +69,6 @@ vcs.xml
 lint/intermediates/
 lint/generated/
 lint/outputs/
-lint/tmp/
+lint/tmp
 lint/reports/
 >>>>>>> conflict
